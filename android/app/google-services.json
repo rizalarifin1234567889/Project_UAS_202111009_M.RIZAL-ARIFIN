@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38359396031",
+    "project_id": "latihan-firebase-ed4ce",
+    "storage_bucket": "latihan-firebase-ed4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38359396031:android:2faf98ceb40aa575c6200a",
+        "android_client_info": {
+          "package_name": "com.yusuf.login_register_dan_logout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38359396031-9v4qg4oc8u3ni51ilomce2st9qijqs0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8y-4Zql-D9MMG_vCaCpB101g7rIaiZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38359396031-9v4qg4oc8u3ni51ilomce2st9qijqs0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
